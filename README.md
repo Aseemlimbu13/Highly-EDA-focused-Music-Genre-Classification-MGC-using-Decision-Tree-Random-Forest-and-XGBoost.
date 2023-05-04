@@ -1,0 +1,2 @@
+# Highly-EDA-focused-Music-Genre-Classification-MGC-using-Decision-Tree-Random-Forest-and-XGBoost.
+This project is highly focused on Exploratory Data Analysis part for of the Machine learning work flow. MGC dataset from the kaggle which was primarily taken from the Spotify Music. We applied the traditional ML algorithms like Decision Tree with max depth limitation, Random Forest, XGBoost with hyperparameter tuning using MLFlow.
